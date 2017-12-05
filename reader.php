@@ -1,6 +1,6 @@
 <meta http-equiv="refresh" content="1" />
-<?php
-// John Longworth December 2016 
+<?php 
+tes
 $servername = "localhost";
 $username = "GaNuG";
 $password = "SecretCode21";
