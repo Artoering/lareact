@@ -1,10 +1,9 @@
 <meta http-equiv="refresh" content="1" />
-<?php 
-tes
-$servername = "localhost";
+<?php  
+$servername = "202.52.146.29";
 $username = "GaNuG";
-$password = "SecretCode21";
-$dbname = "test";
+$password = "kostlabn_easy321";
+$dbname = "kostlabn_sas";
 
 // Connect to mysql server
 $conn = mysqli_connect($servername,$username,$password ) 
